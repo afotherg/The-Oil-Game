@@ -1,0 +1,341 @@
+THOUS		{$Thousands}
+MILLS		{$Millions}
+ENDWELL		{The well in %s plot %d,owned by the %s Oil Corporation has 
+just reached the end of its natural life, and has been decommissioned.}
+NRENDWELL	{The well in %s plot %d,owned by the %s Oil Corporation 
+will be decommissioned at the end of the next period.}
+
+WELLFIN		{The well in %s, plot %d, built on behalf of the %s Oil 
+Corporation has just been completed at a total cost of $%s}
+LOANPAID	{The loan of $%s has just been repaid.}
+STOREFIN 	{The new storage facilities in %s, built on behalf of the %s 
+Oil Corporation have just been built at a cost of $%s}
+
+PROSFIN		{After prospecting in %s, plot %d, the prospecting team 
+reported estimated reserves of %s barrels.}
+PLOTSOLD	{Plot %d in the state of %s has been sold to the %s Oil 
+Corporation at a cost of $%s.}
+NOTSOLD		{Plot %d in the state of %s has not been sold since the 
+reserve price ($%s) was not met.}
+
+TRANPIPE	{      Transport by pipe       }
+TRANRAIL	{     Eastern Gulf Railroad     }
+PIPEFIN		{The pipeline between %s and %s has now come on line. 
+This pipeline has been built for the exclusive use of the %s corp}
+UNASS		{(unassigned)}
+PLOTSALE	{The state of %s announces the sale by auction of plot %d. 
+The sale to commence in %d months.}
+
+WELCOME		{Welcome to The Oil Game!  We hope you enjoy playing this 
+fascinating business simulation.}
+
+VPWELLT		{Hey look! I've just been looking through our land portfolio, 
+and I notice that our plot %d in %s has got estimated reserves of %s barrels. 
+How about building a new well there.}
+VPWELLM		{I've done a bit of market research in %s and I think that 
+there's a demand for %s barrels at $%.2f. Think about this when choosing 
+which well to build.}
+
+VPBLDSTT	{How about building some storage in %s? There is no 
+competition there at the moment, and it would be a good strategy to get in 
+there from the start.}
+VPBUILDSTM	{Choose amount of storage to build. I would recommend at 
+least %d barrels. %s PS. How about a new Ferrari?}
+
+VPEXPOILT	{The Saudi Arabian Import Corporation is offering to buy %d 
+Thousand barrels of oil at $%.2f per barrel, delivery one month to port of %s. 
+Penalty for non-delivery - $%d  Thousand}
+
+VPOFFPLOT	{The state of %s exclusively offers to the %s Oil Corporation 
+plot %d at a price of %s.}
+
+VPSELLALLT	{I've just been looking at %s, and I notice that we are 
+selling all we can produce. How about raising prices or production.}
+VPSELLALL1M	{RAISE the price until the revenue graph peaks - guaranteed 
+to give you more money!!! How about a salary rise?}
+VPSELLALL2M	{I have chosen our cheapest well in %s. RAISE the production 
+until the difference between costs and revenue is greatest.}
+
+VPTROILT	{How about transporting some oil from %s (where there's a 
+surplus) to %s (where there's unused storage)?}
+VPTROILM	{Increase amount of oil to transport until the supply graph 
+shows a value. Make sure that the amount of oil to transport is greater than 
+zero. I have set price in %s at $%.2f.}
+
+VPMKLOSST	{I note that expenses are exceeding revenue in %s. Act 
+quickly!! How about a new Porsche??}
+
+VPPROST		{I've just been looking at our plot %d in %s, we haven't 
+prospected it yet, and I think it would be worthwhile to do so.}
+VPPROSM		{The plot is now selected. Choose the type of prospecting. 
+Remember that the more expensive it is, the more accurate. How about offering 
+me some stock options.}
+
+VPSUP1T		{I have noticed that we have got unsold oil in our storage 
+tanks in %s and we are importing oil. This seems very stupid. How about 
+changing this?}
+VPSUP2T		{We've got unsold stock in %s. As I see it, we've got 3 
+options-- Transport it out, lower production or lower prices. Make a decision 
+quickly.}
+VPSUP1M		{OK, lower the amount to be transported until the supply 
+graph starts going down. We should be ok then.}
+VPSUP20M	{I have chosen the most expensive well in %s. Lower the 
+production until the supply graph starts going down.}
+VPSUP21M	{Lower the price until the supply starts decreasing. 
+That should sort that one out.}
+VPSUP22M	{I'm going on vacation, so you'll have to choose the best 
+state to transport to. Choose one that has got spare storage, and is cheap 
+to transport to! Raise amount to transport until SURPLUS OIL is low.}
+
+VPCOMP1T	{Just look at these revenue graphs I've just got hold of. 
+%s has got an absolute monopoly in %s, and we haven't even got storage there. 
+We've got to do something fast.}
+VPCOMP2T	{This is appalling. %s is stealing our rightful business in 
+%s. We've got capacity & storage there, and aren't selling a thing. 
+This means war!! Look at the revenue graph.}
+VPCOMP3T	{Let's kill %s's monopoly in %s by shipping in oil from %s 
+and undercutting them. It'll hurt our profits, but we can't afford to let 
+anybody have a monopoly.}
+VPCOMP1M	{OK go for it. Build some storage, and then we can begin to 
+turn the screw on %s. Remember "Business is War". %s}
+VPCOMP2M	{Great! Just lower our price until we knock %s out of the 
+market (should be soon). And remember, if some other VP moans about our 
+making a loss in %s, just ignore the coward.}
+VPCOMP3M	{Right, I've set the price in %s at $%.2f to undercut %s. 
+Start transporting the oil in, wait for the fireworks to start, and hang in 
+there.}
+VPCOMP4M	{Obviously, we need some oil to transport from %s. We can do 
+this by increasing prices, or increasing production.}
+VPCOMP41M	{Raise your prices until you start to get 
+some supply. Then press CONTINUE, and we can continue with the operation.}
+VPCOMP42M	{Raise production until you start to get some supply. 
+Then press CONTINUE, and we can start business.}
+
+VPNEEDSTT	{I've been looking at %s, and I reckon that we need about 
+about %d more barrels of storage.}
+VPNEEDSTM	{Right, I think that we need about %d barrels. %s}
+VPEXTR1T	{Disaster! We're transporting more oil than we've got from 
+%s, and wasting a fortune. We've got to raise production, raise prices, or 
+lower transportation}
+VPEXTR2T	{We're wasting money by transporting oil into %s when there 
+isn't really room for it. We've got to lower our prices or decrease the 
+transport. I'll carry out your decision!!}
+VPEXTR11M	{I've chosen the cheapest well in %s, RAISE production until 
+we start getting more supply to transport out.}
+VPEXTR12M	{RAISE the price in %s until supply starts rising, we can 
+then transport economically.}
+
+VPEXITBUT	{exit}
+VPACCBUT	{accept}
+VPCONTBUT	{CONTINUE}
+VPMOREBUT	{more}
+VPLPDBUT	{lower prod}
+VPLPRBUT	{lower price}
+VPTROUTBUT	{transport out}
+VPLTRBUT	{lower trans}
+VPRSPRBUT	{raise price}
+VPRSPDBUT	{raise prod}
+VPBUILDST	{build storage}
+VPWAR		{WAR!!!}
+VPLOANBUT	{apply for loan}
+
+VPTAXT		{We've got to be quick, I think that our tax bill at the end 
+of the period is going to be greater than our cash. We must borrow about 
+$%s.}
+VPTAXM		{Right, if possible, borrow about $%s. If not, borrow as 
+much as possible. We can worry about paying it back later!}
+
+VPWELLFT	{I've noticed that we are not using our wells efficiently 
+in %s. If we raised production in plot %d, and lowered it in %d, we'd be 
+far more efficient}
+VPDOIT		{go do it!!}
+
+PLOTMES		{plot window}
+NOTOWN		{not owned}
+
+PROSTP0		{Sybil the Soothsayer +- 50%}
+PROSTP1		{geological survey +- 30%   }
+PROSTP2		{in depth survey +- 10%     }
+PROSTP3		{test well +- 1%            }
+
+PROSFOUND	{%s barrels reported}
+NOPROS		{not prospected}
+NULLSTRING	{ }
+
+NOWELL		{no well built}
+WELLIN		{Well with %d halves left}
+WELLNEAR	{Well ready in %d days}
+PROSHAP		{prospecting taking place}
+
+CANTWELL	{[1][I'm sorry, but there |isn't enough money in |the bank 
+for this well.][ OK ]}
+CANTSTORE	{[1][I'm sorry, but you can't |afford this storage.][ OK ]}
+
+NOLAND		{[1][You can't afford |that land.][ OK ]}
+
+CANTPROS	{[1][You haven't got enough |money to prospect.][ OK ]}
+CANTPIPE	{[1][You can't afford |that pipeline.][ OK ]}
+
+NORSRC		{[1][Can't open resource file. |Aborting...][ OK ]}
+NOMEM		{[1][FATAL ERROR | Out of memory |Aborting...][ OK ]}
+NOFILE		{[1]Can't open file.][ Continue ]}
+NOINIT		{[1][Can't open init file. |Aborting...][ OK ]}
+
+WIBS		{build storage}
+WIIN		{intray}
+WIBPL		{build pipeline}
+WIAL		{arrange loan}
+WITRAN		{transport oil}
+WIPRODALL	{produce of all}
+WIREVALL	{revenue of all}
+WIEXPALL	{expenses of all}
+WIMKTSH		{market share}
+WIHISTPROD	{historic produce}
+WIHISTCOST	{historic costs}
+WIHISTREV	{historic revenue}
+WIINC		{income statement}
+WIBID		{bid for land}
+WIBAL		{balance sheet}
+WIHISTSUP	{historic supply}
+WIHISTCASH	{historic cash}
+WIHISTSOLD	{historic sales}
+WIHISTPRC	{historic prices}
+WISUPPALL	{supply of all}
+WICASH		{cash}
+WIPRICE		{prices}
+WIINTEARN	{interest earned}
+WIAMTSOLD	{amount sold}
+WIJOBS		{work in progress}
+WIINFO		{information}
+WIBLDWELL	{build well}
+WIPROS		{prospect}
+WICHOUT		{change output}
+WICHPRC		{enter pricing strategy}
+WINEWS		{newspaper}
+
+
+PLOTNOBEL	{[3][This plot does |not belong to you.][  OK  ]}
+NOCHOUT		{[3][Not allowed in |this plot][  OK  ]}
+CANTOPNWELL	{[3][Can't open wells file. |Aborting...][ OK ]}
+
+WIVPCHOOSE	{choose a VP}
+
+MEMPRODVP	{Memo from Production VP}
+MEMPLANVP	{Memo from Planning VP}
+MEMMARKVP	{Memo from Marketing VP}
+MEMSALEVP	{plot for sale}
+MEMSALESVP	{Memo from Sales VP}
+MEMTRANVP	{Memo from Transport VP}
+MEMFINVP	{Memo from Finance VP}
+MEMDEVVP	{Memo from Development VP}
+MEMOPVP		{Memo from Operations VP}
+MEMDIRTYVP	{Memo from Dirty Tricks VP}
+
+VPBLOWUP	{I've noticed that %s is making far too much money in %s. I 
+think that we should blow up his well in plot %d. There's no chance of getting 
+caught!}
+
+VPNOCHNCE	{No chance!}
+VPGOITBUT	{Go for it!}
+
+VPBLOWNUP	{A well in %s owned by %s was blown up last night.}
+
+RANDBLOW	{A well in %s owned by the %s Oil Corp was destroyed by a 
+freak accident last night.}
+RANDSTORE	{%ld barrels of storage owned by %s were destroyed by 
+overloading last night in %s.}
+
+DUTCHBID	{Dutch auction}
+
+STATEWSTATE	{State: %s}
+PLOTWNUM	{ Plot: %d}
+
+DUTCHPRESS	{BUY!}
+
+BANKRUPT1	{Your bank account has just slipped into the red. Clear this 
+up within twelve days.}
+BANKRUPT2	{You have been overdrawn at the bank for 6 days. You must take 
+immediate action.}
+
+BANKRUPT3	{You have been declared bankrupt at the bank.}
+
+GAMEOVER	{[1][You have lost. |Press to examine position][ OK ]}
+
+GIVEMONEY	{A tax error from 10 years ago has resulted in a $1 million 
+refund to the %s Oil Corp.}
+
+RANDFINE	{Due to a breach of the environmental code, the %s Oil Corp 
+has been fined $1 Million.}
+
+GUSHER		{Some wildcatters have discovered a gusher in %s plot %d. It 
+will be auctioned off in 2 months.}
+
+FOUNDOUTTEXT	{Your clumsy attempt to blow up a well in %s has been 
+discovered. You have been fined $1 Million.}
+
+RANDOMPLOT	{Analysis of land records has shown that the %s Oil Corp owns 
+plot %d in %s.}
+
+RANDOMLPLOT	{Examination of the land records has shown that plot %d, 
+owned by %s has reverted to %s.}
+
+MEMACC		{Memo from Accounts VP}
+
+PIPEJOBT	{Pipe being built from %s to %s, ready in %d days}
+
+WELLJOBT	{The well in %s (plot %d) will be ready in %d days}
+
+STOREJOBT	{Storage in %s (%d barrels) ready in %d days}
+
+SELLJOBT	{Plot %d (%s) coming up for sale in %d months}
+
+EXPOILJOBT	{%d thousand barrels to be delivered to %s within %d days}
+
+LOANJOBT	{The loan of $%s to be repaid in %d months}
+
+JOBTITLE	{Work in progress for %s.}
+
+EASYTL		{High scores - Easy game}
+
+HARDTL		{High scores - Hard game}
+
+TNOSELL		{ not valid}
+
+TSELLWELL	{ well:$%s}
+
+TSELLAND	{ plot:$%s}
+
+TSELLSTR	{  str:$%s}
+
+STRSELLMSG	{%s has sold %ld barrels of storage in %s for $%s}
+
+SELLANDMSG	{%s has sold plot %d in %s for $%s}
+
+SELLWELLMSG	{%s has sold its well in plot %d, %s for $%s}
+
+FINEASY		{[1][You have successfully completed |easy mode.|
+Press to review position][ OK ]}
+
+FINHARD		{[1][You have successfully completed |hard mode.|
+Press to review position][ OK ]}
+
+VPCT01		{A brilliant young Harvard Educated VP}
+VPCT02		{Very expensive, but worth it!}
+
+VPCT11		{An engineer who has risen through the ranks.}
+VPCT12		{Does things the old fashioned way.}
+
+VPCT21		{Unimaginative, but a steady and conscientous}
+VPCT22		{worker. Good in a crisis.}
+
+VPCT31		{Heavy drinker. Spends more time in the bar}
+VPCT32		{than the office. Popular with the staff.}
+
+VPCT41		{Cousin of Frederick Gitty.}
+VPCT42		{Supposed to be good with numbers.}
+
+ENTERLEVEL	{Enter Level}
+EASYMODE	{1) Easy}
+HARDMODE	{2) Hard}
+END
+
